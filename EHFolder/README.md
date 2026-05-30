@@ -1,7 +1,7 @@
 ### Using Julia in Jupyter notebooks in the browser
 
 Julia can be used in jupyter notebooks with the IJulia.jl package.
-Open your computers terminal or powershell and navigate to your project folder and activate the Julia project with
+Open your computers terminal or powershell, navigate to your project folder and activate the Julia project with
 
 ```
 julia --project=.
