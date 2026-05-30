@@ -1,6 +1,5 @@
 # Mathematical symbols can also be used in Julia variable names.
 # Try names like \theta<Tab>, \sigma<Tab>, or \lambda<Tab> in the editor.
-# Learning goal: Sometimes math symbols make an equation easier to read.
 
 
 

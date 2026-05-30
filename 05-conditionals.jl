@@ -1,5 +1,3 @@
-# Learning goal: Sometimes we want the computer to choose between a few possibilities.
-
 ϕ = 0.18   # porosity fraction
 
 if ϕ >= 0.2

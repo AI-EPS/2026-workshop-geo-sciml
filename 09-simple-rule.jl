@@ -1,5 +1,3 @@
-# Learning goal: A simple rule can help sort observations into groups.
-
 sample_names = ["A", "B", "C", "D"]   # sample labels
 SiO₂ = [62.1, 49.5, 71.3, 55.2]             # silica percentage for each sample
 

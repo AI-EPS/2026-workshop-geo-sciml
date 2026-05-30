@@ -1,6 +1,5 @@
 # To type subscripts and superscripts in Julia/VS Code, use Unicode tab completion.
 # Examples: \_1<Tab> gives ₁, \_2<Tab> gives ₂, \^2<Tab> gives ², and z\bar<Tab> gives z̄.
-# Learning goal: Get familiar with simple math operations like adding, subtracting, multiplying, and dividing.
 
 z₁ = 120.0          # top depth in meters
 z₂ = 138.5          # bottom depth in meters

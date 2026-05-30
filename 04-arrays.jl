@@ -1,4 +1,3 @@
-# Learning goal: If we have many measurements, it helps to keep them together.
 # With an array, we can keep many values together, count them, pick one value out, look at part of the array, and summarize them.
 # Julia starts indexing at 1, so the first element is d[1]. (same as MATLAB)
 # In Python, indexing starts at 0, so the first element would be d[0].

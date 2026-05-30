@@ -1,5 +1,3 @@
-# Learning goal: If we will reuse the same calculation, it helps to write it once.
-
 function geothermal_temperature(Tₛ, ∇T, z)
     z_km = z / 1000   # depth converted to kilometers
     return Tₛ + ∇T * z_km
